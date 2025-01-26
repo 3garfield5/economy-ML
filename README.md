@@ -6,5 +6,5 @@
 ### **Лицензия**
 [MIT License](https://choosealicense.com/licenses/mit/).
 
-## Авторы
+## Автор
 - Козырев Матвей
